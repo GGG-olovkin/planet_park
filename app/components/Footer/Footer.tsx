@@ -14,9 +14,9 @@ const Footer = () => {
     ];
 
     const contactInfo = [
-        { icon: FaWhatsapp, text: '+994 77 270 78 88', href: 'https://wa.me/994772707888' },
-        { icon: FaPhone, text: '+994 50 270 78 88', href: 'tel:+994502707888' },
-        { icon: FaMapMarkerAlt, text: 'Bakı şəhəri, Nərimanov rayonu, Mərdəkan qəsəbəsi', href: '#' },
+        { icon: FaWhatsapp, text: '+994557900060', href: 'https://wa.me/99557900060' },
+        { icon: FaPhone, text: '+994124128806', href: 'tel:+994502707888' },
+        { icon: FaMapMarkerAlt, text: ' Biləcəri qəsəbəsi, Məmməd Səid Ordubadi', href: '#' },
         { icon: FaClock, text: 'Hər gün: 09:00 - 18:00', href: '#' },
         { icon: FaEnvelope, text: 'info@planetpark.az', href: 'mailto:info@planetpark.az' }
     ];
