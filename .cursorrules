@@ -1,0 +1,58 @@
+Proje, Next.js, TypeScript ve Tailwind CSS kullanılarak geliştirilen bir kullanıcı kayıt platformudur. Aşağıdaki kurallara uyulmalıdır:
+
+1. **Kodlama Standartları:**
+   - Tüm kodlar TypeScript ile yazılmalıdır.
+   - Fonksiyonel ve deklaratif programlama yaklaşımları tercih edilmelidir.
+   - Kod tekrarından kaçınılmalı ve modülerlik ön planda tutulmalıdır.
+
+2. **Bileşen Yapısı:**
+   - Her bileşen kendi klasöründe, ilgili stil ve test dosyalarıyla birlikte bulunmalıdır.
+   - Bileşen isimlendirmeleri açıklayıcı ve anlamlı olmalıdır.
+
+3. **Stil Rehberi:**
+   - Tailwind CSS sınıfları kullanılmalı, özel stiller minimal düzeyde tutulmalıdır.
+   - Responsive tasarım prensiplerine uyulmalıdır.
+
+
+
+4. **Güvenlik ve Performans:**
+   - Giriş doğrulama ve yetkilendirme mekanizmaları uygulanmalıdır.
+   - Performans optimizasyonları ve SEO en iyi uygulamaları dikkate alınmalıdır.
+
+
+kontent~
+Proje, Next.js ve Tailwind CSS kullanılarak geliştirilen bir Uber sürücü kayıt platformudur. İçerik yapısı aşağıdaki gibidir:
+
+1. **Ana Sayfa (Home):**
+   - **Başlık:** UBER Sürücü ve Kurye Kayıt Merkezi
+   - **Açıklama:** Sürücülerin Uber platformuna hızlı ve kolay bir şekilde kaydolmalarını sağlayan resmi partner.
+   - **Özellikler:**
+     - Kolay ve hızlı kayıt süreci
+     - Güvenilir ortaklık ve zamanında ödemeler
+     - Düşük komisyon oranları ve ek bonuslar
+     - Esnek çalışma saatleri
+
+2. **Kayıt Ol (Register):**
+   - **Başlık:** Uber Sürücüsü Olun
+   - **Açıklama:** Uber sürücüsü olmak için gerekli adımları ve başvuru formunu içerir.
+   - **Form Alanları:**
+     - Ad Soyad
+     - İletişim Bilgileri
+     - Araç Bilgileri
+     - Gerekli Belgelerin Yüklenmesi
+
+3. **S.S.S. (FAQ):**
+   - **Başlık:** Sıkça Sorulan Sorular
+   - **Açıklama:** Uber sürücüsü olma süreci, çalışma koşulları ve ödemeler hakkında sıkça sorulan soruların yanıtları.
+
+4. **İletişim (Contact):**
+   - **Başlık:** Bize Ulaşın
+   - **Açıklama:** Her türlü soru ve destek talepleriniz için bizimle iletişime geçin.
+   - **İletişim Bilgileri:**
+     - Telefon Numaraları
+     - E-posta Adresi
+     - Adres Bilgileri
+     tasarimda sarı ve siyah ağırlıklı kullanılsın
+
+Kontentin tamami azerbaycan dilinde olsun
+
