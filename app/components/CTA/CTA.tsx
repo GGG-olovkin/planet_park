@@ -40,7 +40,7 @@ const CTA = () => {
                             Həftəlik 1000-1500 AZN qazanmaq istəyirsiniz?
                             <br />
                             <span className="text-yellow-400 font-semibold">
-                                Planet Parka qoşulun və öz biznesinizi başladın!
+                                X  Parka qoşulun və öz biznesinizi başladın!
                             </span>
                         </p>
 
@@ -67,7 +67,7 @@ const CTA = () => {
                         </div>
                         <div className="flex flex-col gap-4 mt-8">
                             <motion.a
-                                href="tel:0557900060"
+                                href="tel:12345678"
                                 whileHover={{ scale: 1.02 }}
                                 whileTap={{ scale: 0.98 }}
                                 className="flex items-center justify-center gap-3 px-8 py-4 bg-yellow-400 text-black font-bold rounded-xl hover:bg-yellow-500 transition-all duration-300 shadow-lg hover:shadow-yellow-400/25 w-full md:w-auto"
@@ -76,7 +76,7 @@ const CTA = () => {
                                 Zəng Edin
                             </motion.a>
                             <motion.a
-                                href="https://wa.me/994557900060"
+                                href="https://wa.me/12345678"
                                 whileHover={{ scale: 1.02 }}
                                 whileTap={{ scale: 0.98 }}
                                 className="flex items-center justify-center gap-3 px-8 py-4 bg-green-500 text-white font-bold rounded-xl hover:bg-green-600 transition-all duration-300 shadow-lg hover:shadow-green-500/25 w-full md:w-auto"

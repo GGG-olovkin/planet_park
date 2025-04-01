@@ -8,17 +8,17 @@ const Footer = () => {
     const currentYear = new Date().getFullYear();
 
     const socialLinks = [
-        { icon: FaInstagram, href: 'https://instagram.com/planetpark', label: 'Instagram' },
-        { icon: FaTiktok, href: 'https://tiktok.com/@planetpark', label: 'TikTok' },
-        { icon: FaFacebook, href: 'https://facebook.com/planetpark', label: 'Facebook' }
+        { icon: FaInstagram, href: 'https://instagram.com/X park', label: 'Instagram' },
+        { icon: FaTiktok, href: 'https://tiktok.com/@X park', label: 'TikTok' },
+        { icon: FaFacebook, href: 'https://facebook.com/X park', label: 'Facebook' }
     ];
 
     const contactInfo = [
-        { icon: FaWhatsapp, text: '+994557900060', href: 'https://wa.me/994557900060' },
-        { icon: FaPhone, text: '+994124128806', href: 'tel:+994502707888' },
-        { icon: FaMapMarkerAlt, text: ' Biləcəri qəsəbəsi, Məmməd Səid Ordubadi', href: '#' },
+        { icon: FaWhatsapp, text: '+12345678', href: 'https://wa.me/1111111111' },
+        { icon: FaPhone, text: '+12345678', href: 'tel:+12345678' },
+        { icon: FaMapMarkerAlt, text: ' Baki seheri', href: '#' },
         { icon: FaClock, text: 'Hər gün: 09:00 - 18:00', href: '#' },
-        { icon: FaEnvelope, text: 'info@planetpark.az', href: 'mailto:info@planetpark.az' }
+        { icon: FaEnvelope, text: 'info@X park.az', href: 'mailto:info@X park.az' }
     ];
 
     const quickLinks = [
@@ -35,7 +35,7 @@ const Footer = () => {
                 <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 md:gap-12">
                     {/* Company Info */}
                     <div className="space-y-4">
-                        <h3 className="text-2xl font-bold text-yellow-400">Planet Park</h3>
+                        <h3 className="text-2xl font-bold text-yellow-400">X  Park</h3>
                         <p className="text-gray-400 text-sm">
                             Uber platformuna sürücü , sahibkar və ya kurye kimi qoşulun və gəlir əldə etməyə başlayın.
                         </p>
@@ -116,8 +116,9 @@ const Footer = () => {
                 <div className="mt-12 pt-8 border-t border-gray-800">
                     <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
                         <p className="text-gray-400 text-sm">
-                            © {currentYear} planetPark. Bütün hüquqlar qorunur.
+                            © {currentYear} X Park. Bütün hüquqlar qorunur.
                         </p>
+                        <p>Designed by <Link className='text-yellow-400' href='www.saytyarat.com' >SaytYarat</Link> </p>
                         <div className="flex space-x-6">
                             <Link href="/privacy" className="text-gray-400 hover:text-yellow-400 transition-colors duration-300 text-sm">
                                 Gizlilik Siyasəti

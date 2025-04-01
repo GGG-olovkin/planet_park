@@ -74,11 +74,11 @@ const About = () => {
                 >
                     <h2 className="text-4xl md:text-5xl font-bold mb-6">
                         <span className="bg-gradient-to-r from-yellow-400 to-yellow-600 text-transparent bg-clip-text">
-                            Planet Park Haqqında
+                            X  Park Haqqında
                         </span>
                     </h2>
                     <p className="text-gray-400 max-w-2xl mx-auto text-lg">
-                        Planet Park olaraq, Uber platformunda sürücü və ya kurye olmaq istəyənlərə
+                        X  Park olaraq, Uber platformunda sürücü və ya kurye olmaq istəyənlərə
                         ən yaxşı xidməti təqdim edirik. Təcrübəli komandamız və sürətli prosesimizlə
                         sizə kömək edirik.
                     </p>

@@ -280,17 +280,17 @@ const Terms = () => {
                                 </h2>
                                 <div className="text-center">
                                     <p className="text-xl text-white mb-6">
-                                        🌍 Planet Parka qoşul, planetin 🌍 ən yaxşı sürücüsü sən ol.
+                                        🌍 X  Parka qoşul, X in 🌍 ən yaxşı sürücüsü sən ol.
                                     </p>
                                     <p className="text-lg text-gray-300 mb-8">
                                         Sertifikatın var, avtomobilin yoxdur? Problem yoxdur, sertifikat səndən, avtomobil bizdən.
-                                        Elə isə Planet Parka 🌍 zəng et, arzuladığın əmək haqqını əldə et 🌍.
+                                        Elə isə X  Parka 🌍 zəng et, arzuladığın əmək haqqını əldə et 🌍.
                                     </p>
                                     <div className="text-2xl font-bold text-yellow-400 mb-4">
-                                        📞 (055)790-00-60
+                                        📞 (055)123-45-67
                                     </div>
                                     <p className="text-xl text-white">
-                                        🌍 Planet Parka zəng et, öz planetini kəşf et 🌍
+                                        🌍 X  Parka zəng et, öz X ini kəşf et 🌍
                                     </p>
                                 </div>
                             </motion.div>
