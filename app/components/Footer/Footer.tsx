@@ -8,9 +8,9 @@ const Footer = () => {
     const currentYear = new Date().getFullYear();
 
     const socialLinks = [
-        { icon: FaInstagram, href: 'https://instagram.com/metropark', label: 'Instagram' },
-        { icon: FaTiktok, href: 'https://tiktok.com/@metropark', label: 'TikTok' },
-        { icon: FaFacebook, href: 'https://facebook.com/metropark', label: 'Facebook' }
+        { icon: FaInstagram, href: 'https://instagram.com/planetpark', label: 'Instagram' },
+        { icon: FaTiktok, href: 'https://tiktok.com/@planetpark', label: 'TikTok' },
+        { icon: FaFacebook, href: 'https://facebook.com/planetpark', label: 'Facebook' }
     ];
 
     const contactInfo = [
@@ -18,7 +18,7 @@ const Footer = () => {
         { icon: FaPhone, text: '+994 50 270 78 88', href: 'tel:+994502707888' },
         { icon: FaMapMarkerAlt, text: 'Bakı şəhəri, Nərimanov rayonu, Mərdəkan qəsəbəsi', href: '#' },
         { icon: FaClock, text: 'Hər gün: 09:00 - 18:00', href: '#' },
-        { icon: FaEnvelope, text: 'info@metropark.az', href: 'mailto:info@metropark.az' }
+        { icon: FaEnvelope, text: 'info@planetpark.az', href: 'mailto:info@planetpark.az' }
     ];
 
     const quickLinks = [
@@ -35,7 +35,7 @@ const Footer = () => {
                 <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 md:gap-12">
                     {/* Company Info */}
                     <div className="space-y-4">
-                        <h3 className="text-2xl font-bold text-yellow-400">MetroPark</h3>
+                        <h3 className="text-2xl font-bold text-yellow-400">Planet Park</h3>
                         <p className="text-gray-400 text-sm">
                             Uber platformuna sürücü , sahibkar və ya kurye kimi qoşulun və gəlir əldə etməyə başlayın.
                         </p>
@@ -116,7 +116,7 @@ const Footer = () => {
                 <div className="mt-12 pt-8 border-t border-gray-800">
                     <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
                         <p className="text-gray-400 text-sm">
-                            © {currentYear} MetroPark. Bütün hüquqlar qorunur.
+                            © {currentYear} planetPark. Bütün hüquqlar qorunur.
                         </p>
                         <div className="flex space-x-6">
                             <Link href="/privacy" className="text-gray-400 hover:text-yellow-400 transition-colors duration-300 text-sm">
