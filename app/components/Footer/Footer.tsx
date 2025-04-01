@@ -14,7 +14,7 @@ const Footer = () => {
     ];
 
     const contactInfo = [
-        { icon: FaWhatsapp, text: '+994557900060', href: 'https://wa.me/99557900060' },
+        { icon: FaWhatsapp, text: '+994557900060', href: 'https://wa.me/9994557900060' },
         { icon: FaPhone, text: '+994124128806', href: 'tel:+994502707888' },
         { icon: FaMapMarkerAlt, text: ' Biləcəri qəsəbəsi, Məmməd Səid Ordubadi', href: '#' },
         { icon: FaClock, text: 'Hər gün: 09:00 - 18:00', href: '#' },
